@@ -57,7 +57,7 @@ const keyPress = e => {
     // 100ms後に背景色を元に戻す
     setTimeout(() => {
     wrap.classList.remove('mistyped');
-    }, 100);
+    }, 10);
     return;
   }
 
