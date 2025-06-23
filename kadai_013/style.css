@@ -127,20 +127,20 @@ PC用のスタイル
      display: block;
    }
 
-   #nav-spa:link{
+   #nav-sp a:link{
     color: #ffffff;
    }
 
-   #nav-spa:visited{
+   #nav-sp a:visited{
     color: #ffffff;
    }
 
-   #nav-spa:hover{
+   #nav-sp a:hover{
      color: #ffffff;
      text-decoration: underline;
    }
 
-   #nav-spa:active{
+   #nav-sp a:active{
     color: #ffffff;
    }
 
